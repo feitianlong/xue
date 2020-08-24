@@ -1,0 +1,10 @@
+final 关键字
+   final修饰类的时候，该类不能被继承
+   final修饰方法的时候，该方法不能被重写
+   final修饰成员变量的时候，该变量被修改
+
+ type 关键字
+    type的功能与linux中的alias功能类似
+    type T = String
+    var xx:T = "sss"
+    那么可以使用T来修饰变量，该变量为String类型

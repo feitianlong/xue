@@ -1,0 +1,7 @@
+<configuration>
+<name>dfs.repulication</name>
+<value>2</value>
+
+<name>dfs.blocksize</name>
+<value>128m</value>
+</configuration>
